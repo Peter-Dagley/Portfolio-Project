@@ -1,7 +1,12 @@
 body {
-    background-color:rgba(255, 255, 255, 0.712)
+    background-color:rgba(250, 196, 134, 0.712)
 }
 
-h1, h3, p, ul {
+h1, h2, h3, h4, p, ul {
     font-family: Arial, Helvetica, sans-serif;
+}
+
+#mugshot {
+    position: absolute;
+    width: 300px;  
 }
